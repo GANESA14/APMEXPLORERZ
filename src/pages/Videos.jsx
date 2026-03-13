@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useMemo } from 'react';
 import gsap from 'gsap';
 
-const INSTAGRAM_PLACEHOLDER = "./Logo.png";
+const INSTAGRAM_PLACEHOLDER = "./PlaceHolder.jpeg";
 
 const VIDEOS = [
   { p: 'youtube', id: '4HkkBVreYgg', title: 'Mountain Trail Adventure 2024' },
